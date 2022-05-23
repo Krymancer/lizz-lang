@@ -1,5 +1,3 @@
-# Ravenlang
+# Lizz
 
-Ravenlang is a simple programing language, made only for learning purposes
-
-![raven](https://media.discordapp.net/attachments/649466405066113024/692559524531404860/raven-moon.png)
+Lizz is a language created primary for learning purpouse, the goal is to obtain an c like language with more sintax suguar and std functions premade to solve competitive program problems 
